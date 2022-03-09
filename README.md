@@ -7,6 +7,9 @@ I provide here all the exercises for the Data Visualization with Tableau course 
 https://classroom.udacity.com/courses/ud1006
 It is very useful to start in this wonderful field.
 
+You can find out more exercises on my Public Tableau account
+https://public.tableau.com/app/profile/adarwish98
+
 With that, here are the areas this lesson will cover:
 
     I. Connecting to Data
